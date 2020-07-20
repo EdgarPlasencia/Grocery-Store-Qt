@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Iconos/Save.ico</file>
+        <file>Iconos/plus.png</file>
+        <file>Iconos/shop.png</file>
+        <file>Iconos/question.png</file>
+        <file>Iconos/add-to-cart.png</file>
+        <file>Iconos/cash.png</file>
+    </qresource>
+</RCC>
